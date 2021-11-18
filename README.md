@@ -1,2 +1,2 @@
 # table-normalizer
-Normalize verbose CSV files to obtain relational table files.
+Extract normalized relational tables from verbose CSV files via reinforcement learning (q-learning).
